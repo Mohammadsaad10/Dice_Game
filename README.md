@@ -15,8 +15,10 @@ A fun, interactive browser-based **Dice Game** that randomly rolls two dice to d
 7. [Dependencies](#dependencies)
 8. [How It Works](#how-it-works)
 9. [Customization](#customization)
-10. [Contributors](#contributors)
-11. [License](#license)
+10. [Author](#author)
+11. [Acknowledgments](#acknowledgments)
+12. [License](#license)
+
 
 ---
 
@@ -137,7 +139,7 @@ You can:
 
 ## 👤 Author
 
-Mohammadsaad
+Mohammadsaad(https://github.com/Mohammadsaad10/)
 
 ---
 
