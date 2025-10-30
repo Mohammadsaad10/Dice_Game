@@ -8,7 +8,7 @@ A fun, interactive browser-based **Dice Game** that randomly rolls two dice to d
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Demo](#demo)
+3. [Demo](#Demo)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Project Structure](#project-structure)
@@ -24,7 +24,7 @@ A fun, interactive browser-based **Dice Game** that randomly rolls two dice to d
 
 ## 📖 Introduction
 
-The **Dicee Game** simulates a two-player dice roll. Each player gets a random dice face upon refreshing the page, and the script declares a winner based on whose dice value is higher — or a draw if both are equal.
+The **Dice Game** simulates a two-player dice roll. Each player gets a random dice face upon refreshing the page, and the script declares a winner based on whose dice value is higher — or a draw if both are equal.
 
 This project demonstrates:
 
