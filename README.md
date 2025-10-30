@@ -6,25 +6,24 @@ A fun, interactive browser-based **Dice Game** that randomly rolls two dice to d
 
 ## 🧭 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Demo](#Demo)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Dependencies](#dependencies)
-8. [How It Works](#how-it-works)
-9. [Customization](#customization)
-10. [Author](#author)
-11. [Acknowledgments](#acknowledgments)
-12. [License](#license)
-
+1. [Introduction](#-introduction)
+2. [Features](#-features)
+3. [Demo](#-demo)
+4. [Installation](#-installation)
+5. [Usage](#-usage)
+6. [Project Structure](#-project-structure)
+7. [Dependencies](#-dependencies)
+8. [How It Works](#-how-it-works)
+9. [Customization](#-customization)
+10. [Author](#-author)
+11. [Acknowledgments](#-acknowledgments)
+12. [License](#-license)
 
 ---
 
 ## 📖 Introduction
 
-The **Dice Game** simulates a two-player dice roll. Each player gets a random dice face upon refreshing the page, and the script declares a winner based on whose dice value is higher — or a draw if both are equal.
+The **Dicee Game** simulates a two-player dice roll. Each player gets a random dice face upon refreshing the page, and the script declares a winner based on whose dice value is higher — or a draw if both are equal.
 
 This project demonstrates:
 
@@ -50,7 +49,7 @@ This project demonstrates:
 
 ---
 
-## ⚙️ Installation
+## 🛠 Installation
 
 1. Clone this repository:
 
@@ -139,7 +138,7 @@ You can:
 
 ## 👤 Author
 
-Mohammadsaad(https://github.com/Mohammadsaad10/)
+[**Mohammad Saad**](https://github.com/Mohammadsaad10)
 
 ---
 
